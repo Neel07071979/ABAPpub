@@ -28,8 +28,10 @@ WRITE:/ 'Change 2 in Git Hub Rep'.
 WRITE:/ 'Change 3 03212025 in ecliplse Rep'.
 WRITE:/ 'Change - 6 in ABAP System'.
 WRITE:/ 'Change - 7 in Git System'.
+WRITE:/ 'Change - 24 in Main branch'.
 WRITE:/ 'Change - 8 in ABAP System'.
 WRITE:/ 'Change - 9 in Git System'.
 WRITE:/ 'Change - 10 in Feature branch'.
 WRITE:/ 'Change - 11 in Feature branch'.
 WRITE:/ 'Change - 12 in Feature branch'.
+WRITE:/ 'Change - 1 From main branch'.

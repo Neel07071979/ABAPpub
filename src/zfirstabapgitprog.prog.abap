@@ -31,3 +31,5 @@ WRITE:/ 'Change - 7 in Git System'.
 WRITE:/ 'Change - 8 in ABAP System'.
 WRITE:/ 'Change - 9 in Git System'.
 WRITE:/ 'Change - 10 in Feature branch'.
+WRITE:/ 'Change - 11 in Feature branch'.
+WRITE:/ 'Change - 12 in Feature branch'.
